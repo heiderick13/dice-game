@@ -1,4 +1,4 @@
-# Frontend Mentor - Interactive rating component solution
+# Dicee Game
 
 This is a solution to the dicee game challenge from the [Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?src=sac&kw=the+complete+web+de).
 
